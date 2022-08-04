@@ -1,9 +1,9 @@
-#Chat System
+# Chat System
 
-##Description
+## Description
 A locally hosted client-server based chat system. Which allows multiple user interfaces to communicate with each other.
 
-##Running the program
+## Running the program
 First of all "ChatServer.java" is run.
 The servers allows multiple different users to connect to it in order to communicate with each other. For each user you want to connect to the chat system you need to run the file "ClientGUI.java".
 Each time you add a user the program will open up a GUI. The GUI will then prompt the user to enter their name.
